@@ -23,3 +23,4 @@ SIZE = 1000000
 sort()函數則是NlogN
 因此若資料都是N筆，插入排序法約會花上sort() "N/logN" 倍的時間                      
 
+# lab3
